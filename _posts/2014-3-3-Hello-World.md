@@ -1,9 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: My link trader - SQL Injection 
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+An attacker can exploit this vulnerability to read from the database. The parameter 'imgid' is vulnerable.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
