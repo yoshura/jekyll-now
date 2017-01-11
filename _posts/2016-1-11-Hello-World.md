@@ -7,8 +7,6 @@ An attacker can exploit this vulnerability to read from the database. The parame
 
 https://www.exploit-db.com/exploits/41010/
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
 # Vulnerability: My link trader - SQL Injection
 # Date: 11.01.2017
 # Vendor Homepage:
