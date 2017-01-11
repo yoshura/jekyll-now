@@ -9,8 +9,7 @@ https://www.exploit-db.com/exploits/41010/
 
 # Vulnerability: My link trader - SQL Injection
 # Date: 11.01.2017
-# Vendor Homepage:
-http://software.friendsinwar.com/scripts_example/my_link_trader/
+# Vendor Homepage: http://software.friendsinwar.com/scripts_example/my_link_trader/
 # Tested on: Kali Linux 2016.2
 # Author: Dawid Morawski
 # Website: http://www.morawskiweb.pl
