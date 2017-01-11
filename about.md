@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! My name is Dawid Morawski. I am 27 years old security researcher and penetration tester. 
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Site powered by jekyll-now.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dawid.morawski1990@gmail.com](mailto:dawid.morawski1990@gmail.com)
