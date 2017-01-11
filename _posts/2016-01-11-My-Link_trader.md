@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My link trader - SQL Injection 
+title: My link trader - SQL Injection - 11.01.2017
 ---
 
 An attacker can exploit this vulnerability to read from the database. The parameter 'id' is vulnerable.
