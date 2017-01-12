@@ -1,7 +1,7 @@
-<br>---
-<br>layout: post
-<br>title: Job Portal Script v9.11 Authentication bypass - 12.01.2017
-<br>---
+---
+layout: post
+title: Job Portal Script v9.11 Authentication bypass - 12.01.2017
+---
 
 <br>Authentication bypass should give you access to the admin area.
 <br># Vulnerability: Job Portal Script v9.11 Authentication bypass
