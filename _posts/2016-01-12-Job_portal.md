@@ -2,8 +2,8 @@
 layout: post
 title: Job Portal Script v9.11 Authentication bypass - 12.01.2017
 ---
+Authentication bypass should give you access to the admin area.
 
-<br>Authentication bypass should give you access to the admin area.
 <br># Vulnerability: Job Portal Script v9.11 Authentication bypass
 <br># Date: 12.01.2017
 <br># Software link: http://itechscripts.com/job-portal-script/
