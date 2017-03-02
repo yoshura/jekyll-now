@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook status poster - Selenium Webdriver -  11.01.2017
+title: Facebook status poster - Selenium Webdriver -  02.03.2017
 ---
 
 "Facebook status poster" Selenium Webdriver Automation test - simple example 
