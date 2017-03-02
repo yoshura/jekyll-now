@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Facebook status poster" Selenium Webdriver Automation test example - 02.03.2017
-
 ---
 
 from selenium import webdriver
