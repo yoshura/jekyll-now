@@ -34,6 +34,6 @@ title: Facebook status poster - Selenium Webdriver -  02.03.2017
 <br>
 <br>driver.close()
 <br>
-<br><a href="https://github.com/yoshura/Selenium-Webdriver-scripts/blob/master/%22Facebook%20status%20poster%22%20Selenium%20Webdriver%20Automation%20test%20example">Github</a>
+<br><a href=https://github.com/yoshura/Selenium-Webdriver-scripts/blob/master/%22Facebook%20status%20poster%22%20Selenium%20Webdriver%20Automation%20test%20example>Github</a>
 
 
