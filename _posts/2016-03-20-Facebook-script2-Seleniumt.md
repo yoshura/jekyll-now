@@ -1,18 +1,16 @@
 ---
 layout: post
-title: "Facebook Script" Selenium Webdriver Automation test - simple example - 20.03.2017
+title: "Facebook Script" - 20.03.2017
 ---
 
 #"Facebook Script" Selenium Webdriver Automation test - simple example
-# 1. Script accept all new friends
-# 2. Send 5 invites to "People You May Know"
-# 3. Invite friends to like your fanpage
-# Working only on polish language version
 
 
 
-
-
+<br># 1. Script accept all new friends
+<br># 2. Send 5 invites to "People You May Know"
+<br># 3. Invite friends to like your fanpage
+<br># Working only on polish language version
 
 <br>#"Facebook Script" Selenium Webdriver Automation test
 <br>from selenium.common.exceptions import ElementNotVisibleException
