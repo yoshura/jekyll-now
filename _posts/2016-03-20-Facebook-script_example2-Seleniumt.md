@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Facebook Script" - 20.03.2017
+title: Facebook status poster - Selenium Webdriver -  20.03.2017
 ---
 
-#"Facebook Script" Selenium Webdriver Automation test - simple example
+
+"Facebook Script" Selenium Webdriver Automation test - simple example
 
 
 
