@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Facebook status poster - Selenium Webdriver -  20.03.2017
+title: Facebook script example - Selenium Webdriver -  20.03.2017
 ---
 
 
