@@ -6,7 +6,7 @@
 name: MorawskiWeb.pl
 
 # Short bio or description (displayed in the header)
-description: Vulnerabilities discovered by Dawid Morawski. 
+description: Scripts and Vulnerabilities discovered by Dawid Morawski. 
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
@@ -19,7 +19,7 @@ avatar: http://i63.tinypic.com/20qe3ia.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: dawid.morawski1990@gmail.com
+  email: dawidmorawski1990@gmail.com
   facebook:
   flickr:
   github: 
